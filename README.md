@@ -5,7 +5,7 @@ This is a micro service programmed in Java with the help of Spring. Which repres
 and user log in to a system.
 #Installation
 Required: Java 11 version and Gradle 7.4 version
-git clone ''
+git clone 'https://github.com/lgcid14/sign-up-service.git'
 run 'gradle clean build' command
 #Test
 Run project as Spring Boot application, then send request from Postman 
